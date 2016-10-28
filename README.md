@@ -22,7 +22,7 @@ For more, consult the [project website](http://cubiq.org/add-to-home-screen).
 
 ## License
 
-Copyright (c) 2014 Matteo Spinelli, http://cubiq.org/
+Copyright (c) 2014-2016 Matteo Spinelli, http://cubiq.org/
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
